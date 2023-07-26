@@ -13,7 +13,7 @@ logging.basicConfig(
     datefmt='%a, %d %b %Y %H:%M:%S'
 )
 
-_help = '''#######################################################################################################
+_help = '''######################################################################################################
 Run command  : python odoo_flectra.py <path> [--copy/-c] [--help/-h]
 
 @param -> odoo_flectra.py : to convert odoo modules to flectra
